@@ -1,6 +1,8 @@
 # ModHeader Legacy browser extension
 
-ModHeader Legacy is a browser extension that allow you to modify HTTP request and response headers. It is a fork of the legacy 2.5.4 version of the [original ModHeader extension](https://github.com/bewisse/modheader) which transitioned to 3.0.0 in April 2020.
+![ModHeader Legacy Logo](https://raw.githubusercontent.com/patricknelson/modheader-legacy/legacy/store-image.jpg)
+
+ModHeader Legacy is a browser extension that allow you to modify HTTP request and response headers. It is a fork of the **legacy 2.5.4** version of the [original ModHeader extension](https://github.com/bewisse/modheader) which transitioned to 3.0.0 in April 2020.
 
 **Credit:** All credit for this extension goes to the original author, [Hao Nguyen](https://github.com/hao1300).  Everything below this line is from the original version and all other parts of this extension remain exactly the same except for the name. 
 
