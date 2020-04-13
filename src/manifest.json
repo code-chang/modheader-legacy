@@ -1,8 +1,8 @@
 {
-  "name": "ModHeader",
+  "name": "ModHeader Legacy",
   "version": "2.5.4",
   "manifest_version": 2,
-  "homepage_url": "https://bewisse.com/modheader/",
+  "homepage_url": "https://github.com/patricknelson/modheader-legacy",
   "description": "Modify request and response headers",
   "background": {
     "scripts": ["background.js"]
